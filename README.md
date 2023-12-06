@@ -1,5 +1,7 @@
 ## Test task for Arival Bank
 
+[Live Demo](https://milovaola.github.io/login-form/)
+
 ### The Task
 
 Need to implement a multi-step form using React and TypeScript. The Figma layout is
