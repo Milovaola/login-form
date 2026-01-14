@@ -1,6 +1,5 @@
 {
   "name": "arrival-bank-test",
-  "homepage": "https://milovaola.github.io/login-form/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
